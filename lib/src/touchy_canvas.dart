@@ -71,9 +71,6 @@ class TouchyCanvas {
     GestureForcePressEndCallback? onForcePressEnd,
     GestureForcePressPeakCallback? onForcePressPeak,
     GestureForcePressUpdateCallback? onForcePressUpdate,
-    GestureDragStartCallback? onPanStart,
-    GestureDragUpdateCallback? onPanUpdate,
-    GestureDragDownCallback? onPanDown,
     GestureTapDownCallback? onSecondaryTapDown,
     GestureTapUpCallback? onSecondaryTapUp,
   }) {
@@ -93,9 +90,6 @@ class TouchyCanvas {
           onForcePressEnd: onForcePressEnd,
           onForcePressPeak: onForcePressPeak,
           onForcePressUpdate: onForcePressUpdate,
-          onPanStart: onPanStart,
-          onPanUpdate: onPanUpdate,
-          onPanDown: onPanDown,
           onSecondaryTapDown: onSecondaryTapDown,
           onSecondaryTapUp: onSecondaryTapUp,
         )));
@@ -116,9 +110,6 @@ class TouchyCanvas {
     GestureForcePressEndCallback? onForcePressEnd,
     GestureForcePressPeakCallback? onForcePressPeak,
     GestureForcePressUpdateCallback? onForcePressUpdate,
-    GestureDragStartCallback? onPanStart,
-    GestureDragUpdateCallback? onPanUpdate,
-    GestureDragDownCallback? onPanDown,
     GestureTapDownCallback? onSecondaryTapDown,
     GestureTapUpCallback? onSecondaryTapUp,
   }) {
@@ -136,9 +127,6 @@ class TouchyCanvas {
           onForcePressEnd: onForcePressEnd,
           onForcePressPeak: onForcePressPeak,
           onForcePressUpdate: onForcePressUpdate,
-          onPanStart: onPanStart,
-          onPanUpdate: onPanUpdate,
-          onPanDown: onPanDown,
           onSecondaryTapDown: onSecondaryTapDown,
           onSecondaryTapUp: onSecondaryTapUp,
         )));
@@ -158,9 +146,6 @@ class TouchyCanvas {
     GestureForcePressEndCallback? onForcePressEnd,
     GestureForcePressPeakCallback? onForcePressPeak,
     GestureForcePressUpdateCallback? onForcePressUpdate,
-    GestureDragStartCallback? onPanStart,
-    GestureDragUpdateCallback? onPanUpdate,
-    GestureDragDownCallback? onPanDown,
     GestureTapDownCallback? onSecondaryTapDown,
     GestureTapUpCallback? onSecondaryTapUp,
   }) {
@@ -178,9 +163,6 @@ class TouchyCanvas {
           onForcePressEnd: onForcePressEnd,
           onForcePressPeak: onForcePressPeak,
           onForcePressUpdate: onForcePressUpdate,
-          onPanStart: onPanStart,
-          onPanUpdate: onPanUpdate,
-          onPanDown: onPanDown,
           onSecondaryTapDown: onSecondaryTapDown,
           onSecondaryTapUp: onSecondaryTapUp,
         )));
@@ -206,9 +188,6 @@ class TouchyCanvas {
     GestureForcePressEndCallback? onForcePressEnd,
     GestureForcePressPeakCallback? onForcePressPeak,
     GestureForcePressUpdateCallback? onForcePressUpdate,
-    GestureDragStartCallback? onPanStart,
-    GestureDragUpdateCallback? onPanUpdate,
-    GestureDragDownCallback? onPanDown,
     GestureTapDownCallback? onSecondaryTapDown,
     GestureTapUpCallback? onSecondaryTapUp,
   }) {
@@ -226,9 +205,6 @@ class TouchyCanvas {
           onForcePressEnd: onForcePressEnd,
           onForcePressPeak: onForcePressPeak,
           onForcePressUpdate: onForcePressUpdate,
-          onPanStart: onPanStart,
-          onPanUpdate: onPanUpdate,
-          onPanDown: onPanDown,
           onSecondaryTapDown: onSecondaryTapDown,
           onSecondaryTapUp: onSecondaryTapUp,
         )));
@@ -249,9 +225,6 @@ class TouchyCanvas {
     GestureForcePressEndCallback? onForcePressEnd,
     GestureForcePressPeakCallback? onForcePressPeak,
     GestureForcePressUpdateCallback? onForcePressUpdate,
-    GestureDragStartCallback? onPanStart,
-    GestureDragUpdateCallback? onPanUpdate,
-    GestureDragDownCallback? onPanDown,
     GestureTapDownCallback? onSecondaryTapDown,
     GestureTapUpCallback? onSecondaryTapUp,
   }) {
@@ -269,9 +242,6 @@ class TouchyCanvas {
           onForcePressEnd: onForcePressEnd,
           onForcePressPeak: onForcePressPeak,
           onForcePressUpdate: onForcePressUpdate,
-          onPanStart: onPanStart,
-          onPanUpdate: onPanUpdate,
-          onPanDown: onPanDown,
           onSecondaryTapDown: onSecondaryTapDown,
           onSecondaryTapUp: onSecondaryTapUp,
         )));
@@ -291,9 +261,6 @@ class TouchyCanvas {
     GestureForcePressEndCallback? onForcePressEnd,
     GestureForcePressPeakCallback? onForcePressPeak,
     GestureForcePressUpdateCallback? onForcePressUpdate,
-    GestureDragStartCallback? onPanStart,
-    GestureDragUpdateCallback? onPanUpdate,
-    GestureDragDownCallback? onPanDown,
     GestureTapDownCallback? onSecondaryTapDown,
     GestureTapUpCallback? onSecondaryTapUp,
   }) {
@@ -311,9 +278,6 @@ class TouchyCanvas {
           onForcePressEnd: onForcePressEnd,
           onForcePressPeak: onForcePressPeak,
           onForcePressUpdate: onForcePressUpdate,
-          onPanStart: onPanStart,
-          onPanUpdate: onPanUpdate,
-          onPanDown: onPanDown,
           onSecondaryTapDown: onSecondaryTapDown,
           onSecondaryTapUp: onSecondaryTapUp,
         )));
@@ -334,9 +298,6 @@ class TouchyCanvas {
     GestureForcePressEndCallback? onForcePressEnd,
     GestureForcePressPeakCallback? onForcePressPeak,
     GestureForcePressUpdateCallback? onForcePressUpdate,
-    GestureDragStartCallback? onPanStart,
-    GestureDragUpdateCallback? onPanUpdate,
-    GestureDragDownCallback? onPanDown,
     GestureTapDownCallback? onSecondaryTapDown,
     GestureTapUpCallback? onSecondaryTapUp,
   }) {
@@ -358,9 +319,6 @@ class TouchyCanvas {
           onForcePressEnd: onForcePressEnd,
           onForcePressPeak: onForcePressPeak,
           onForcePressUpdate: onForcePressUpdate,
-          onPanStart: onPanStart,
-          onPanUpdate: onPanUpdate,
-          onPanDown: onPanDown,
           onSecondaryTapDown: onSecondaryTapDown,
           onSecondaryTapUp: onSecondaryTapUp,
         )));
@@ -380,9 +338,6 @@ class TouchyCanvas {
     GestureForcePressEndCallback? onForcePressEnd,
     GestureForcePressPeakCallback? onForcePressPeak,
     GestureForcePressUpdateCallback? onForcePressUpdate,
-    GestureDragStartCallback? onPanStart,
-    GestureDragUpdateCallback? onPanUpdate,
-    GestureDragDownCallback? onPanDown,
     GestureTapDownCallback? onSecondaryTapDown,
     GestureTapUpCallback? onSecondaryTapUp,
   }) {
@@ -400,9 +355,6 @@ class TouchyCanvas {
           onForcePressEnd: onForcePressEnd,
           onForcePressPeak: onForcePressPeak,
           onForcePressUpdate: onForcePressUpdate,
-          onPanStart: onPanStart,
-          onPanUpdate: onPanUpdate,
-          onPanDown: onPanDown,
           onSecondaryTapDown: onSecondaryTapDown,
           onSecondaryTapUp: onSecondaryTapUp,
         )));
@@ -428,9 +380,6 @@ class TouchyCanvas {
     GestureForcePressEndCallback? onForcePressEnd,
     GestureForcePressPeakCallback? onForcePressPeak,
     GestureForcePressUpdateCallback? onForcePressUpdate,
-    GestureDragStartCallback? onPanStart,
-    GestureDragUpdateCallback? onPanUpdate,
-    GestureDragDownCallback? onPanDown,
     GestureTapDownCallback? onSecondaryTapDown,
     GestureTapUpCallback? onSecondaryTapUp,
   }) {
@@ -448,9 +397,6 @@ class TouchyCanvas {
           onForcePressEnd: onForcePressEnd,
           onForcePressPeak: onForcePressPeak,
           onForcePressUpdate: onForcePressUpdate,
-          onPanStart: onPanStart,
-          onPanUpdate: onPanUpdate,
-          onPanDown: onPanDown,
           onSecondaryTapDown: onSecondaryTapDown,
           onSecondaryTapUp: onSecondaryTapUp,
         )));
@@ -473,9 +419,6 @@ class TouchyCanvas {
     GestureForcePressEndCallback? onForcePressEnd,
     GestureForcePressPeakCallback? onForcePressPeak,
     GestureForcePressUpdateCallback? onForcePressUpdate,
-    GestureDragStartCallback? onPanStart,
-    GestureDragUpdateCallback? onPanUpdate,
-    GestureDragDownCallback? onPanDown,
     GestureTapDownCallback? onSecondaryTapDown,
     GestureTapUpCallback? onSecondaryTapUp,
   }) {
@@ -493,9 +436,6 @@ class TouchyCanvas {
           onForcePressEnd: onForcePressEnd,
           onForcePressPeak: onForcePressPeak,
           onForcePressUpdate: onForcePressUpdate,
-          onPanStart: onPanStart,
-          onPanUpdate: onPanUpdate,
-          onPanDown: onPanDown,
           onSecondaryTapDown: onSecondaryTapDown,
           onSecondaryTapUp: onSecondaryTapUp,
         ));
